@@ -1,5 +1,3 @@
-// Created by: Vinay_GB
-// Date of creation: 27-02-2020
 #include <iostream> // std::cout
 #include <vector> // std::vector
 #include <algorithm> // std::generate()
